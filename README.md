@@ -31,3 +31,5 @@ it has 4 folder which are <br />1) Closed_eyes - having 726 pictures<br />
 
 
 Download DLib library , and 68_facial_lankmarks_dat file.
+
+Arrange the directory structure accordingly .

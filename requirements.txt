@@ -33,7 +33,7 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 ml-dtypes==0.3.2
 namex==0.0.8
-numpy==1.26.0  # Corrected version
+numpy==1.26.4  # Corrected version
 opencv-python==4.5.5.62  # Updated to a standard version
 opt-einsum==3.3.0
 optree==0.11.0

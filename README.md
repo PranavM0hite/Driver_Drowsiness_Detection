@@ -17,6 +17,8 @@ Pre-install all the required libraries <br />1) OpenCV<br />
                                        5) OS<br />
                                        6) Playsound<br />
                                        7) dlib<br />
+                                       8) streamlit
+                                       9) pygame
 
 
 Download the Dataset from the link given below and edit the address in the notebook accordingly.<br />

@@ -1,9 +1,0 @@
-opencv-python
-dlib==19.24.4
-keras
-imutils
-pygame
-scipy
-numpy
-streamlit
-cmake==3.29.2 

@@ -6,4 +6,4 @@ pygame
 scipy
 numpy
 streamlit
-cmake
+cmake="3.29.2"

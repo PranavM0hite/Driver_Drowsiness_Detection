@@ -8,9 +8,9 @@ cachetools
 certifi
 charset-normalizer
 click
-cmake
+cmake==3.25.2
 colorama
-dlib
+dlib==19.24.2
 Flask
 flatbuffers
 gast
